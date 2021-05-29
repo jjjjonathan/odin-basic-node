@@ -1,0 +1,23 @@
+{
+  "name": "odin-basic-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjjonathan/odin-basic-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjjjonathan/odin-basic-node/issues"
+  },
+  "homepage": "https://github.com/jjjjonathan/odin-basic-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
